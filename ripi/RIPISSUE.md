@@ -200,6 +200,9 @@ ripi commit <issue_id> --ai-changelog
 - chat:
   - `-m "my chat message"`
   - open in $EDITOR
+    - chat:
+	    - https://sourcehut.org/chat.png
+	    - https://github.com/ulyssa/iamb
 
 #### `changelog` generator
 
